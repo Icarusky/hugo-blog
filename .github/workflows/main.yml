@@ -27,5 +27,5 @@ jobs:
         with:
           source-directory: 'public'
           destination-github-username: 'Icarusky'
-          destination-repository-name: 'Icarusky.github.io'
+          destination-repository-name: 'hugo-pulic'
           user-email: actions@github.com
