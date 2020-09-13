@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Default
+pages:
+- content/post/first-test-pages.md
