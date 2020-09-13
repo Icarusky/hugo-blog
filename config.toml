@@ -1,5 +1,5 @@
 theme = "hugo-sugoi"
-baseURL = "https://icarusky.github.io"
+baseURL = "https://icarusky.github.io/"
 languageCode = "en-us"
 title = "Icarusky's Blog"
 summaryLength = 20
