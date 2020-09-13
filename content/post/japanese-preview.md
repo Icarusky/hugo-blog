@@ -1,18 +1,20 @@
 ---
-title: "[日本語] 敬語体系"
-date: 2017-08-30T01:53:34+08:00
-lastmod: 2017-08-30T01:53:34+08:00
-draft: false
+title: " 敬語体系"
+date: 2017-08-30T01:53:34.000+08:00
+lastmod: 2017-08-30T01:53:34.000+08:00
 keywords: []
-description: ""
-tags: ["preview", "日本語", "tag-4"]
-categories: ["日本語"]
-author: "Wikipedia"
-
-contentCopyright: '<a rel="license noopener" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" target="_blank">Creative Commons Attribution-ShareAlike License</a>'
+description: ''
+tags:
+- preview
+- 日本語
+- tag-4
+categories:
+- 日本語
+author: Wikipedia
+contentCopyright: <a rel="license noopener" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+  target="_blank">Creative Commons Attribution-ShareAlike License</a>
 
 ---
-
 > 日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに丁重語および美化語を含めた5分類を示している。
 
 # 尊敬語
